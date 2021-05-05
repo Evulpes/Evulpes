@@ -1,6 +1,6 @@
 # Evulpes
 *I'm not allowed to work on Blizzard Games :(* 
-## Available Write-Ups
+## Complete Write-Ups
 ### [Remapping Memory Regions](https://github.com/Evulpes/Remap-Memory-Region)
 #### Preview:
 > What if there's a region that only has PAGE_EXECUTE_READ, as it's initial level, but you want to write to, or modify, its memory? In most cases, you can't. You can also think of this as an oppurtunity; what if you have an application that you want to protect from memory edits?
